@@ -29,8 +29,8 @@ body {
 
 .header__avatar {
   border-radius: 50%;
-  width: 200px;
-  height: 160px;
+  width: 150px;
+  height: 150px;
 }
 
 .header__name_user {
@@ -40,7 +40,7 @@ body {
   line-height: 1.2;
   font-family: "Helvetica Neue";
   align-items: center;
-  color: #0c79ff;
+  color: #000000;
 }
 
 .header__subtitle {
@@ -128,7 +128,7 @@ footer {
   font-size: 14px;
   line-height: 1.4;
 
-  color: #0c79ff;
+  color: #000000;
   text-decoration: none;
 }
 
