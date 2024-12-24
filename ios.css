@@ -29,14 +29,14 @@ body {
 
 .header__avatar {
   border-radius: 50%;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 160px;
 }
 
 .header__name_user {
   margin: 50;
-  font-weight: 1000;
-  font-size: 25px;
+  font-weight: 600;
+  font-size: 20px;
   line-height: 1.2;
   font-family: "Helvetica Neue";
   align-items: center;
@@ -44,7 +44,7 @@ body {
 }
 
 .header__subtitle {
-  color: #7f7d7d;
+  color: #000000;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.4;
